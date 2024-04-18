@@ -1,0 +1,31 @@
+body {
+  background-color: #c6cacc;
+  font-family: Arial, Helvetica, sans-serif;
+} /* End of body */
+
+h1 {
+  color: #484b4d;
+  text-align: center;
+} /* End of h1 */
+
+.assign {
+  color: #323436;
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+  background-color: #e4e8eb;
+} /* End of assign */
+
+a {
+ text-decoration: none;
+ color: #323436;
+} /* End of a */
+
+
+.assign img {
+  width: 200px;
+  object-fit: contain;
+  padding: 10px;
+  border: 2px double #b2b6b8; 
+  border-radius: 5px; /* Felt like having rounded borders */
+} /* End of assign img */
