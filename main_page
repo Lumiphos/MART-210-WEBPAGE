@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<!-- Ignore how weird it all looks in the code, I made this last minute since I couldn't get wix to work, so I ended up just reusing some code of mine that I used -->
+<!-- a while back to make another webpage. -->
+<html>
+  <head>              <!-- ALSO CONTAINS LINK TO CSS -->
+    <title>MART 210: Chloe Brown</title>
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="styles.css" />
+    
+  </head> <!-- End of head -->
+  
+  <body>
+    <h1><center>Chloe Brown</center></h1>
+    <hr> <!-- hr just to make things look less clustered. -->
+
+
+                                                                            <!-- PROBLEM STATEMENT -->
+<!-- Start of section "assign" (PS) -->
+  <section class="assign">
+    <img src="images/problem-statement-group_resized.JPG" />
+    <!-- CHANGE to cat pictures -->
+    
+<!-- Start of section "assign-det" WITHIN section "assign" (PS) -->
+    <section class="assign-det">
+      <h2>My cat (1/2)</h2>
+      <p>
+                This is a picture of my cat Reese. We found her in a pipe and decided to keep her.
+      </p>
+    </section> <!-- End of section "assign-det" (PS) -->
+    
+  </section> <!-- End of section "assign" (PS) -->
+
+    
+    <hr>
+    
+    
+                                                                            <!-- AFFINITY DIAGRAM -->
+<!-- Start of section "assign" (AD)-->
+  <section class="assign">
+    <img src="images/affinity-diagram.JPG" />
+    
+<!-- Start of section "assign-det" WITHIN section "assign" (AD) -->
+    <section class="assign-det">
+      <a href="files/affinity-diagram.pdf"><h2>Affinity Diagram: Inconvenient Groceries</h2></a>
+      
+      <p>
+                The affinity diagram contains six sections. These sections refer to the structure of our system, the marketing, the accessibility of this system,
+                the hurdles that we may need to face with this system, and some features that will definitely be included.
+      </p>
+    </section> <!-- End of section "assign-det" (AD) -->
+    
+  </section> <!-- End of section "assign" (AD) -->
+
+
+    <hr>
+
+
+                                                                            <!-- PERSONA -->
+
+<!-- Start of section "assign" (P)-->
+  <section class="assign">
+    <img src="images/my-persona.JPG" />
+    
+<!-- Start of section "assign-det" WITHIN section "assign" (P) -->
+    <section class="assign-det">
+      <a href="files/all-personas.pdf"><h2>Team Personas: The Students Need Food</h2></a>
+      
+      <p>
+                Penelope Eckhart: "It's too hard to get food in college, since I can't drive."
+      </p>
+    </section> <!-- End of section "assign-det" (P) -->
+    
+</section> <!-- End of section "assign" (P) -->
+
+
+    <hr>
+
+
+                                                                            <!-- STORYBOARD -->
+<!-- Start of section "assign" (SB)-->
+    <section class="assign">
+      <img src="images/my-storyboard.png" />
+      <!-- <img src="images/Storyboard_Template.JPG" /> This is a placeholder I added because my formatting got weird -->
+
+<!-- Start of section "assign-det" WITHIN section "assign" (SB) -->
+  <section class="assign-det">
+    <!-- 4-12 panels.  Just use 6. -->
+    <!-- <a href="files/all-storyboards.pdf"><h2>Team Storyboards: Demeter Grocer's Users</h2></a> ALL storyboards -->
+    <a href="files/ChloeBrown_Storyboard.pdf"><h2>Team Storyboards: Demeter Grocer's Users</h2></a> <!-- PLACEHOLDER, this is ONLY my pdf. I will add the combined PDF once all my group members upload their storyboard PDFs. -->
+    <p>
+              Penelope is hungry between classes. She doesn't have her own car, so she would need to rely on the school's free transportation to go
+              get food between classes. However, she doesn't want to use the free transportation, since it can be very unreliable, and she doesn't
+              want to be late to her next class. Thankfully, Demeter Grocer is there to save her day. With Demeter Grocer, she is finally able to get food, without
+              having that time cut into classes.
+    </p> <!-- ONLY my storyboard storyboards -->
+</section> <!-- End of section "assign-det" (SB) -->
+      
+</section> <!-- End of section "assign" (SB) -->
+
+    <hr>
+
+
+                                                                            <!-- SKETCHING -->
+<!-- Start of section "assign" (S)-->
+  <section class="assign">
+     <img src="images/my-sketch.png" />
+    
+<!-- Start of section "assign-det" WITHIN section "assign" (S) -->
+    <section class="assign-det">
+      <a href="files/all-sketches.pdf"><h2>Team Sketches: Demeter Grocer</h2></a>
+      
+      <p>
+                   Sketches of the potential app Demeter Grocer. It has functions such as searching for particular products, locating nearby stores, 
+                  ordering delivery, and requesting a ride.
+      </p>
+    </section> <!-- End of section "assign-det" (S) -->
+    
+</section> <!-- End of section "assign" (S) -->
+
+    
+    <hr>
+
+                                                                                <!-- PAPER PROTOTYPE -->
+
+<!-- Start of section "assign" (PP)-->
+  <section class="assign">
+    <img src="images/team-prototype.jpg" />
+    
+<!-- Start of section "assign-det" WITHIN section "assign" (PP) -->
+    <section class="assign-det">
+      <a href="https://youtu.be/lc5fvbddf7s"><h2>Team Paper Prototype: Demeter Grocer</h2></a>
+      
+      <p>
+                   A paper prototype of the app, Demeter Grocer. There, you can search for food to buy. After selecting what you want to purchase, you can see what stores
+                   near you sell that particular product, and even request a ride to that store through the app. You can view your profile where you can change the app's
+                   appearance, and view your notifications. You can also favorite a particular product or shop, and view them under your Favorites tab. Through the
+                   Favorites tab, you can also rate the app, or your drivers.
+      </p>
+    </section> <!-- End of section "assign-det" (PP) -->
+    
+</section> <!-- End of section "assign" (PP) -->
+
+
+    <hr>
+
+
+                                                                                <!-- Link to page 2 -->
+
+<!-- Start of section "assign" (HF)-->
+  <section class="assign">
+    
+<!-- Start of section "assign-det" WITHIN section "assign" (HF) -->
+    <section class="assign-det">
+      <a href="https://www.youtube.com/watch?v=lIM8W54STzI"><h2>Click here to go to an ugly page full of stock images!</h2></a>
+    </section> <!-- End of section "assign-det" (HF) -->
+    
+</section> <!-- End of section "assign" (HF) -->
+
+
+
+
+    <!-- The below comments are just for me, please ignore. -->
+
+    
+<!-- Format is 2 blank lines, then <hr> then 2 lines, then the next line is the start of the new section -->
+
+    
+
+  </body> <!-- End of body -->
+</html>
